@@ -31,10 +31,7 @@ function Header() {
           </button>
           <div className="mobile-logo">
             <a href="index.html">
-              <span
-                data-mask-src="assets/img/logo.svg"
-                className="logo-mask"
-              ></span>
+              
               <img src="assets/img/logo.svg" alt="Bame" />
             </a>
           </div>
@@ -130,10 +127,7 @@ function Header() {
                 <div className="header-logo-wrap">
                   <div className="header-logo">
                     <a href="index.html">
-                      <span
-                        data-mask-src="assets/img/logo.svg"
-                        className="logo-mask"
-                      ></span>
+                      
                       <img src="assets/img/logo.svg" alt="Bame" />
                     </a>
                   </div>
